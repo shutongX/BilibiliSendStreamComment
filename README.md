@@ -1,0 +1,2 @@
+# BilibiliSendStreamComment
+一个可以登录自己账号然后向自己的直播间发送弹幕的小程序
